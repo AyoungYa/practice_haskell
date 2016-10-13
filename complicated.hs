@@ -1,1 +1,0 @@
-complicated (ab, a, x:xs, 5) = (a, xs)
